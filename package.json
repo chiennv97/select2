@@ -19,7 +19,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/ng2-select2/-/ng2-select2-1.0.0-beta.11.tgz",
+  "_resolved": "https://registry.npmjs.org/ng2-select2/-/ng2-select2-1.0.0-beta.12.tgz",
   "_shasum": "75440e6c26b4d797314a9531e4aed49ebaf6da7f",
   "_spec": "ng2-select2",
   "_where": "G:\\Chiennv\\KI 5\\frontend\\ntdworkvn",
@@ -57,5 +57,5 @@
   },
   "types": "ng2-select2.d.ts",
   "typings": "ng2-select2.d.ts",
-  "version": "1.0.0-beta.11"
+  "version": "1.0.0-beta.12"
 }
